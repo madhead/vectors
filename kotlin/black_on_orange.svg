@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="svg3348"
+   viewBox="0 0 1052.3622 1488.189"
+   height="1488.189"
+   width="1052.3622">
+  <defs
+     id="defs3350">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-1.39455"
+       x2="95.274063"
+       y1="114.92466"
+       x1="-21.045139"
+       id="linear-gradient">
+      <stop
+         id="stop6"
+         stop-color="#c757bc"
+         offset="0.10753" />
+      <stop
+         id="stop8"
+         stop-color="#cd5ca9"
+         offset="0.17288" />
+      <stop
+         id="stop10"
+         stop-color="#e8744f"
+         offset="0.49191" />
+      <stop
+         id="stop12"
+         stop-color="#f88316"
+         offset="0.71582" />
+      <stop
+         id="stop14"
+         stop-color="#ff8900"
+         offset="0.82323" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="90.855858"
+       x2="96.58931"
+       y1="147.55215"
+       x1="39.893021"
+       id="linear-gradient-2">
+      <stop
+         id="stop17"
+         stop-color="#00afff"
+         offset="0.2957" />
+      <stop
+         id="stop19"
+         stop-color="#5282ff"
+         offset="0.69363" />
+      <stop
+         id="stop21"
+         stop-color="#945dff"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linear-gradient-2"
+       y2="-5.2725201"
+       x2="38.27206"
+       y1="34.500591"
+       x1="-1.50106"
+       id="linear-gradient-3" />
+  </defs>
+  <metadata
+     id="metadata3353">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,435.82678)"
+     id="layer1">
+    <path
+       id="polygon28"
+       d="m 56.568526,-161.34483 0,495.91087 0,443.31427 939.225134,0 -468.35048,-471.69645 0,-0.0148 468.35048,-467.51397 -467.67544,0 -471.549694,0 z"
+       style="fill:#000000" />
+  </g>
+</svg>
